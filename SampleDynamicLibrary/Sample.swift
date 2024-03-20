@@ -7,8 +7,8 @@
 
 import Foundation
 
-class Sample {
-    func printFunctionName() {
+public class Sample {
+    public func printFunctionName() {
         print(#function)
     }
 }
